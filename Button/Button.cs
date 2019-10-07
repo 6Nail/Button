@@ -9,7 +9,7 @@ namespace Button
     {
         public event Action OnClickEvent;
 
-        public int Width { get; set; }
+        public int Width { get; set; } 
         public int Height { get; set; }
         public ConsoleColor ColorForeground { get; set; }
         public ConsoleColor ColorBackgroud { get; set; }

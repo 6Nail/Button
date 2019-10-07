@@ -6,6 +6,6 @@ namespace Button
 {
     public static class Constants
     {
-        public static int changeSize = 2;
+         public static int changeSize = 2;
     }
 }

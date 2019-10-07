@@ -76,7 +76,7 @@ namespace Button
                     Console.SetCursorPosition(0, 18);
                     buttonText.OnClick();
 
-                    Console.SetCursorPosition(0, 24);
+                    Console.SetCursorPosition(0, 24); 
                     buttonBeep.OnClick();
 
                 }
